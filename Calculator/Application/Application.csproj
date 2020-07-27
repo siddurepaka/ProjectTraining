@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+  <RestoreSources>$(RestoreSources);C:\Users\siddu\Desktop\Nuget\Calculator\Sample\bin\Debug;https://api.nuget.org/v3/index.json</RestoreSources>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="calculate" Version="1.1.1" />
+  </ItemGroup>
+
+  
+
+
+</Project>

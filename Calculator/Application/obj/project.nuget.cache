@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OcK+ofpCMEbTD60v/JNrHsrNLN3BphYiKv6DVqnUkU3fHKW5ZvUFO/QbrkPLdCKX8Tp9x9qb/imCGHKNcWFkSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\siddu\\Desktop\\Nuget\\Calculator\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\siddu\\.nuget\\packages\\calculate\\1.1.1\\calculate.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
